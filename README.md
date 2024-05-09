@@ -4,8 +4,8 @@
 This project demonstrates advanced data analytics skills in the gaming domain, inspired by a job posting from Activision. It uses data from Kaggle and the Steam API to analyze trends in gaming, especially focusing on the Call of Duty series. This analysis is meant to showcase skills relevant for a potential analytics role at Activision.
 
 ## Data Sources
-**Kaggle:** To obtain historical videgame sales data.
-**Steam API:** Used to extract data related to games by Activision, providing insights into trends and statistics.
+**- Kaggle:** To obtain historical videgame sales data.
+**- Steam API:** Used to extract data related to games by Activision, providing insights into trends and statistics.
 
 ## Methodology
 **Data Collection:** Gathered data from Kaggle and the Steam API.
