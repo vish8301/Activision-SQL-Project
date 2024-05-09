@@ -8,9 +8,9 @@ This project demonstrates advanced data analytics skills in the gaming domain, i
 - **Steam API:** Used to extract data related to games by Activision, providing insights into trends and statistics.
 
 ## Methodology
-**Data Collection:** Gathered data from Kaggle and the Steam API.
-**Data Cleaning and Preprocessing:** Prepared the data for analysis by cleaning and structuring it using Python.
-**SQL Analysis:** Primary analysis was conducted using SQL to investigate and manipulate the data efficiently.
+- **Data Collection:** Gathered data from Kaggle and the Steam API.
+- **Data Cleaning and Preprocessing:** Prepared the data for analysis by cleaning and structuring it using Python.
+- **SQL Analysis:** Primary analysis was conducted using SQL to investigate and manipulate the data efficiently.
 
 ## Conclusion
 The job posting is for an Analytics Internship at Activision Blizzard, Inc., where interns will work on meaningful projects and gain valuable experience. The SQL analysis of the data provided key insights into the Call of Duty franchise, regional preferences, and gaming platform trends.
